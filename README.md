@@ -1,4 +1,4 @@
-:house:    <font color='Blue'>Homepages</font>
+:house:<font color='Blue'>Homepages</font>
 
 ### **Prerequisites**
 -----
